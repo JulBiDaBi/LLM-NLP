@@ -96,23 +96,23 @@ frozenlist==1.7.0
 fsspec==2024.10.0
 gast==0.6.0
 genson==1.3.0
-google-api-core==2.25.1
+google-api-core #==2.25.1
 google-auth==2.40.3
-google-cloud-appengine-logging==1.6.2
-google-cloud-audit-log==0.3.2
+google-cloud-appengine-logging #==1.6.2
+google-cloud-audit-log #==0.3.2
 google-cloud-core==2.4.3
-google-cloud-logging==3.12.1
+google-cloud-logging #==3.12.1
 google-cloud-storage==2.19.0
 google-crc32c==1.7.1
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 google_search_results==2.4.2
-googleapis-common-protos==1.70.0
+googleapis-common-protos #==1.70.0
 greenlet==3.2.4
 groundingdino-py==0.4.0
-grpc-google-iam-v1==0.14.2
+grpc-google-iam-v1 #==0.14.2
 grpcio==1.73.0
-grpcio-status==1.73.0
+grpcio-status #==1.73.0
 h11==0.14.0
 h5py==3.12.1
 httpcore==1.0.7
@@ -200,9 +200,9 @@ marshmallow==3.26.1
 matplotlib==3.8.2
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-mediapipe==0.10.21
+mediapipe # ==0.10.21
 mistune==3.1.3
-ml_dtypes==0.5.1
+ml_dtypes #==0.5.1
 mpmath==1.3.0
 msgpack==1.1.0
 multidict==6.6.4
@@ -249,7 +249,7 @@ pinecone-client==6.0.0
 pinecone-plugin-assistant==1.7.0
 pinecone-plugin-interface==0.0.7
 platformdirs==4.0.0
-playwright==1.54.0
+playwright #==1.54.0
 pluggy==1.6.0
 pmdarima==2.0.4
 pooch==1.8.2
@@ -257,7 +257,7 @@ prometheus_client==0.21.1
 prompt-toolkit==3.0.41
 propcache==0.3.2
 proto-plus==1.26.1
-protobuf==6.31.1
+protobuf  #==6.31.1
 prov==2.1.1
 psutil==5.9.6
 psycopg2==2.9.9
@@ -276,13 +276,13 @@ pydantic-settings==2.10.1
 pydantic_core==2.33.2
 pydot==4.0.1
 pydub==0.25.1
-pyee==13.0.0
+pyee #==13.0.0
 Pygments==2.17.2
 PyJWT==2.10.1
 PyMuPDF==1.26.3
 pyngrok==7.2.3
 pyparsing==3.1.1
-pyppeteer==2.0.0
+pyppeteer #==2.0.0
 pyreadstat==1.2.6
 pyRFC3339==2.0.1
 pyspark==3.5.0
@@ -357,7 +357,7 @@ tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 tensorflow-hub==0.16.1
-tensorflow_intel==2.18.0
+tensorflow-intel #==2.18.0
 termcolor==2.5.0
 terminado==0.18.1
 tesseract==0.1.3
