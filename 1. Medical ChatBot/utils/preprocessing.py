@@ -145,3 +145,5 @@ if __name__ == "__main__":
     question = "Qu'est-ce que l'hypertension artérielle ?"
     result = qa_chain.run(question)
     print("Réponse :", result)
+
+PINECONE_API_KEY="pcsk_r3L9E_QxuSXmekAUVPHPS3xJke8VhLTRnypfJooqgtetXemDui9U27roG7zBc3Wt9Pctq"
