@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*
+!data/raw/Medical_book.pdf
+
+# Environment variables
+.env
+
+# Docker
+docker/
+
+# IDEs
+.vscode/
+.idea/
